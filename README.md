@@ -41,7 +41,7 @@ I am a Final Year Electronics and Communication Engineering student passionate a
 My expertise includes:
 - Embedded Systems Development  
 - IoT System Design  
-- PCB Design & Circuit Debugging  
+- Circuit Debugging  
 - Industrial Automation Systems  
 
 ---
