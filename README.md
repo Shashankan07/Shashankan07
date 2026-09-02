@@ -35,7 +35,9 @@ HARDWARE  →  COMMUNICATION  →  SOFTWARE  →  DATA  →  CLOUD  →  INTELLI
 
 <br/>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 02 — System Status
 
@@ -54,9 +56,17 @@ HARDWARE  →  COMMUNICATION  →  SOFTWARE  →  DATA  →  CLOUD  →  INTELLI
 └──────────────────────────────────────────────────────┘
 ```
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%3E+compiling+experience...;%3E+status%3A+online;%3E+mode%3A+continuous+learning&font=Fira+Code&center=true&width=420&height=28&duration=2200&pause=700&color=38BDF8&vCenter=true&size=14&repeat=true" alt="Terminal Status" />
+</a>
+
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 03 — Engineering Journey
 
@@ -93,6 +103,10 @@ My background in electronics and embedded systems gave me hands-on experience un
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 04 — About Me
 
 I'm a Software Engineer with an Electronics and Communication Engineering background, currently building my expertise in Data Engineering, Python, Databricks, SQL, and cloud-based data platforms.
@@ -112,6 +126,10 @@ I enjoy understanding systems end-to-end:
 I am continuously strengthening my skills in Data Engineering, Cloud Technologies, Distributed Data Processing, Python-based Solutions, and AI/ML — with the goal of building reliable, scalable, and practical engineering solutions.
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 05 — Engineering DNA
 
@@ -145,6 +163,10 @@ Focus on reliable, practical results.
 </table>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 06 — Tech Universe
 
@@ -219,6 +241,10 @@ SolidWorks • Altium • Proteus • Laser Cutting • Industrial Automation
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 07 — Data Architecture
 
 Representation of the data-engineering workflow and environment I'm currently learning and working with:
@@ -269,6 +295,10 @@ Representation of the data-engineering workflow and environment I'm currently le
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 08 — Current Experience
 
 **Tenarai** — *Trainee, Data Engineering*
@@ -280,6 +310,10 @@ Exposure includes:
 `Python` `SQL` `PySpark` `Apache Spark` `Databricks` `SQL Server` `AWS S3` `AWS Lambda` `AWS Glue` `ETL` `Data Pipelines` `Bronze/Silver/Gold` `CSV` `JSON` `SSIS` `SSRS`
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 09 — Project Lab
 
@@ -371,6 +405,10 @@ RFID → ESP32 → INVENTORY EVENT → DATA PROCESSING → CLOUD → INVENTORY M
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 10 — Industrial Roots
 
 **Pneumatic Sealing Machine Control Box** — *Smart Engineering Works*
@@ -404,6 +442,10 @@ SENSORS → CONTROL PANEL → TIMER / CONTROL LOGIC → PNEUMATIC SYSTEM → SEA
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 11 — Currently Learning
 
 <div align="center">
@@ -417,6 +459,10 @@ PYTHON → SQL → PYSPARK → APACHE SPARK → DATABRICKS
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 12 — What I Build
 
@@ -470,6 +516,10 @@ Hardware-software integration
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
+
 ## 13 — GitHub Activity
 
 <div align="center">
@@ -481,9 +531,23 @@ Hardware-software integration
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankan07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=E2E8F0" width="97%"/>
 
+<br/><br/>
+
+<!--
+  Animated contribution snake — eats your contribution graph.
+  Requires a one-time GitHub Action in this repo (Shashankan07/Shashankan07):
+  https://github.com/Platane/snk — add the workflow below as
+  .github/workflows/snake.yml, then this image will populate automatically.
+-->
+<img src="https://raw.githubusercontent.com/Shashankan07/Shashankan07/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
+</div>
 
 ## 14 — Connect
 
