@@ -67,7 +67,7 @@ HARDWARE  →  COMMUNICATION  →  SOFTWARE  →  DATA  →  CLOUD  →  INTELLI
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 03 — Engineering Journey
+##  Engineering Journey
 
 <div align="center">
 
@@ -101,7 +101,8 @@ DATA ENGINEERING
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
-##  About Me
+
+About Me
 
 I'm a Software Engineer with an Electronics and Communication Engineering background, currently building my expertise in Data Engineering, Python, Databricks, SQL, and cloud-based data platforms.
 
