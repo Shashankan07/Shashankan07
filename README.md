@@ -39,7 +39,7 @@ HARDWARE  →  COMMUNICATION  →  SOFTWARE  →  DATA  →  CLOUD  →  INTELLI
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 02 — System Status
+## System Status
 
 <div align="center">
 
@@ -50,9 +50,8 @@ HARDWARE  →  COMMUNICATION  →  SOFTWARE  →  DATA  →  CLOUD  →  INTELLI
 │  ROLE       : SOFTWARE ENGINEER / TRAINEE              │
 │  FOCUS      : DATA ENGINEERING                         │
 │  STACK      : PYTHON • SQL • PYSPARK                   │
-│  PLATFORM   : DATABRICKS • AWS                          │
-│  STATUS     : ● BUILDING                                │
-│  MODE       : CONTINUOUS LEARNING                       │
+│  PLATFORM   : DATABRICKS • AWS                         │
+│  MODE       : CONTINUOUS LEARNING                      │
 └──────────────────────────────────────────────────────┘
 ```
 
@@ -88,26 +87,21 @@ INDUSTRIAL AUTOMATION
 SOFTWARE ENGINEERING
     │
     ▼
-DATA ENGINEERING
-    │
-    ▼
 CLOUD / DISTRIBUTED PROCESSING
     │
     ▼
-    AI / ML
+  AI / ML
+    │
+    ▼
+DATA ENGINEERING
+ 
 ```
-
-</div>
-
-My background in electronics and embedded systems gave me hands-on experience understanding complete systems — from sensors and signal paths to communication protocols. That systems-level thinking now shapes how I approach software and data engineering: end-to-end, from ingestion to insight.
-
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
-
-## 04 — About Me
+## About Me
 
 I'm a Software Engineer with an Electronics and Communication Engineering background, currently building my expertise in Data Engineering, Python, Databricks, SQL, and cloud-based data platforms.
 
@@ -131,7 +125,7 @@ I am continuously strengthening my skills in Data Engineering, Cloud Technologie
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 05 — Engineering DNA
+## Engineering DNA
 
 <table width="100%">
 <tr>
@@ -168,7 +162,7 @@ Focus on reliable, practical results.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 06 — Tech Universe
+## Tech Universe
 
 <table width="100%">
 <tr><td>
@@ -185,12 +179,11 @@ Focus on reliable, practical results.
 </td></tr>
 <tr><td>
 
-**Cloud / Data Platform**
+**Cloud**
 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 </td></tr>
 <tr><td>
@@ -218,88 +211,14 @@ Focus on reliable, practical results.
 </td></tr>
 <tr><td>
 
-**Embedded / IoT**
-
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-Sensors • GSM • GPS
-
-</td></tr>
-<tr><td>
-
-**Engineering / Design**
-
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autocad&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-SolidWorks • Altium • Proteus • Laser Cutting • Industrial Automation
-
-</td></tr>
-</table>
-
 <br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 07 — Data Architecture
 
-Representation of the data-engineering workflow and environment I'm currently learning and working with:
-
-<div align="center">
-
-```
-        DATA SOURCES
-   (CSV · JSON · SQL Server · Enterprise Data)
-                │
-                ▼
-              AWS S3
-                │
-                ▼
-           AWS LAMBDA
-                │
-                ▼
-            AWS GLUE
-                │
-                ▼
-           DATABRICKS
-                │
-                ▼
-      PYSPARK / APACHE SPARK
-                │
-                ▼
-             BRONZE
-                │
-                ▼
-             SILVER
-                │
-                ▼
-              GOLD
-                │
-                ▼
-     DATA CONSUMPTION / ANALYTICS
-```
-
-</div>
-
-- **Ingestion** — raw data lands from structured and semi-structured sources (CSV, JSON, SQL Server, enterprise systems).
-- **Cloud Storage & Triggering** — files land in AWS S3, with Lambda and Glue supporting event-driven and metadata-based orchestration.
-- **Distributed Processing** — Databricks and PySpark/Apache Spark handle large-scale transformation.
-- **Medallion Architecture** — data progresses through Bronze (raw), Silver (cleaned/conformed), and Gold (business-ready) layers.
-- **Consumption** — curated Gold-layer data feeds analytics and downstream reporting.
-
-> This diagram reflects the enterprise data environment and workflows I'm gaining hands-on experience with — not a system I personally architected end-to-end.
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
-</div>
-
-## 08 — Current Experience
+## Current Experience
 
 **Tenarai** — *Trainee, Data Engineering*
 
@@ -315,7 +234,7 @@ Exposure includes:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 09 — Project Lab
+## Project Lab
 
 <details open>
 <summary><b>🩺 Smart Helmet — Accident Detection & Emergency Alert System</b></summary>
@@ -409,44 +328,7 @@ RFID → ESP32 → INVENTORY EVENT → DATA PROCESSING → CLOUD → INVENTORY M
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 10 — Industrial Roots
-
-**Pneumatic Sealing Machine Control Box** — *Smart Engineering Works*
-
-```
-SENSORS → CONTROL PANEL → TIMER / CONTROL LOGIC → PNEUMATIC SYSTEM → SEALING OPERATION
-```
-
-- Designed control box layout using **AutoCAD**
-- Used **laser cutting** for panel fabrication
-- Fabricated **30+ control boxes**
-- Integrated sensors, **Multispan UTR-2033 timer**, wiring, testing, and troubleshooting for pneumatic sealing-machine automation
-
-<div align="center">
-
-**`30+ CONTROL BOXES DESIGNED & FABRICATED`**
-
-</div>
-
-<br/>
-
-**Industrial & Manufacturing Exposure**
-
-| Organization | Area |
-|---|---|
-| Smart Engineering Works | Industrial Automation |
-| VPS Technology India Pvt. Ltd. | Industrial Electronics / Automation |
-| Titan Company Limited — Watches Division | Manufacturing / Maintenance / Quality |
-| Ashok Leyland | Automobile Manufacturing / Production |
-| Codtech IT Solutions | Embedded Systems |
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
-</div>
-
-## 11 — Currently Learning
+##Currently Learning
 
 <div align="center">
 
@@ -520,7 +402,7 @@ Hardware-software integration
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 13 — GitHub Activity
+##GitHub Activity
 
 <div align="center">
 
@@ -549,7 +431,7 @@ Hardware-software integration
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 14 — Connect
+##Connect
 
 <div align="center">
 
