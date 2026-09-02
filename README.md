@@ -101,7 +101,7 @@ DATA ENGINEERING
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
-## About Me
+##  About Me
 
 I'm a Software Engineer with an Electronics and Communication Engineering background, currently building my expertise in Data Engineering, Python, Databricks, SQL, and cloud-based data platforms.
 
@@ -346,7 +346,7 @@ PYTHON → SQL → PYSPARK → APACHE SPARK → DATABRICKS
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
-## 12 — What I Build
+##  What I Build
 
 <table width="100%">
 <tr>
@@ -396,12 +396,3 @@ Hardware-software integration
 </tr>
 </table>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
-</div>
-
-
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%"/>
