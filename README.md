@@ -402,20 +402,6 @@ Hardware-software integration
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/>
 </div>
 
- GitHub Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shashankan07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" width="48%"/> <img src="https://streak-stats.demolab.com?user=Shashankan07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashankan07&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=E2E8F0" width="97%"/>
-
-<br/><br/>
-
-<!-- Animated contribution snake — eats your contribution graph. Requires a one-time GitHub Action in this repo (Shashankan07/Shashankan07): https://github.com/Platane/snk — add the workflow below as .github/workflows/snake.yml, then this image will populate automatically. --> <img src="https://raw.githubusercontent.com/Shashankan07/Shashankan07/output/github-contribution-grid-snake-dark.svg" width="97%"/> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0EA5E9&height=3&width=1000" width="100%"/> </div>
- Connect
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shashankans"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Shashankan07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-<i>Software Engineer · Data Engineering · Python · PySpark · Databricks · SQL · AWS · Cloud & AI/ML</i>
 
 </div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:0F172A&height=120&section=footer" width="100%"/>
